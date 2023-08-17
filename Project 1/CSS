@@ -29,6 +29,7 @@ button {
   text-align: center;
   background-color: transparent;
   font-size: 30px;
+  border: 2px solid mintcream;
 }
 
 
@@ -61,6 +62,7 @@ button {
   text-align: center;
   background-color: transparent;
   font-size: 30px;
+  border: 2px solid mintcream;
   }
 }
 
@@ -92,5 +94,6 @@ button {
   text-align: center;
   background-color: transparent;
   font-size: 30px;
+  border: 2px solid mintcream;
 }
 }
