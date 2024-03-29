@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+   background-color: #e8f4f8;
+}
+
+.event-invitation h1 {
+    color: #333;
+    font-size: 30px;
+    margin-bottom: 20px;
+} 
+
+main{
+  position: relative;
+  top: 100px;
+  background-color: #ffffff;
+  padding: 20px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+button{
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover{
+  background-color: #1A43BF;
+}
