@@ -1,0 +1,72 @@
+body {
+  background-color: #61122f;
+  color: white;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+
+
+nav {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 170px;
+  background-color: #FFB200 ;
+  padding: 10px;
+}
+
+h1 {
+  text-align:center;
+  font-family: "Oxygen";
+  color: green;
+}
+
+.navinfo {
+  position:relative;
+  bottom: 150px;
+}
+
+.navspan {
+  text-align: center;
+  position: relative;
+  bottom: 150px;
+  font-size: 20px;
+  color: black;
+}
+
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.mobile-number {
+  color: green;
+  font-size: 20px;
+
+}
+
+.number-holder, .number-holder:hover, .number-holder:active, .number-holder:visited {
+  font-size: 30px;
+  color: green;
+  text-decoration: none;
+    position:relative;
+  bottom: 100px;
+  float: right;
+  text-align: right;
+}
+
+
+
+.jumbo {
+  width: 100%;
+  box-shadow: 0 0 50px #3f0c1f;
+  border: 2px solid #3F0C1F;
+}
+
+.menu-holder {
+  margin-left: 16%;
+}
