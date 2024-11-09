@@ -1,19 +1,19 @@
 #include <iostream>
 using namespace std;
 
-void add(int a, int b) {
+void add(double  a, double  b) {
     cout << a + b;
 }
 
-void subtract(int a, int b) {
+void subtract(double  a, double  b) {
     cout << a - b;
 }
 
-void multiply(int a, int b) {
+void multiply(double  a, double  b) {
     cout << a * b;
 }
 
-void divide(int a, int b) {
+void divide(double  a, double  b) {
     if (b != 0) {  
         cout << a / b;
     } else {
@@ -21,17 +21,17 @@ void divide(int a, int b) {
     }
 }
 
-int main() {
+int  main() {
     cout << "This is a calculator! \n";
     cout << "Select Any number from 1-4 \n 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division";
     
-    int a = 0;
+    double a = 0;
     cin >> a;
     cout << "\nSelect First Number \n";
-    int b = 0;
+    double  b = 0;
     cin >> b;
     cout << "Select Second Number \n";
-    int c = 0;
+    double  c = 0;
     cin >> c;
 
 
