@@ -1,1 +1,0 @@
-Calculator made with C++
